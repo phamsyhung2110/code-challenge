@@ -1,1 +1,7 @@
-# code-challenge
+- Candidate: Pham Sy Hung
+- Position: Senior DevOps Engieer
+- Email: Phamsyhung2110@gmail.com
+---
+- Problem 1: [See here](./problem-1/)
+- Problem 2: [See here](./problem-2/)
+- Problem 2: [See here](./problem-3/)
